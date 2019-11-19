@@ -12,7 +12,8 @@ CARRERA: INGENIERÍA DE SISTEMAS	<br>ASIGNATURA: HYPERMEDIAL
 •	Crear sitios web aplicando estándares actuales. <br>
 
 <br>
-ACTIVIDADES DESARROLLADAS
+ACTIVIDADES DESARROLLADAS 
+<br>
 1.Crear un repositorio en GitHub con el nombre “Practica03-Javascript”
 
 Primero debemos crear una cuenta en GitHub, y procedemos a crear un repositorio para guardar los distintos archivos de la práctica.
@@ -21,7 +22,7 @@ Primero debemos crear una cuenta en GitHub, y procedemos a crear un repositorio 
    ![image](https://user-images.githubusercontent.com/49664311/69188840-46d24880-0aeb-11ea-8556-4440bf5ab382.png)
 
 
-Una vez creado el repositorio para nuestros archivos, nos dará un url para configurar desde la línea de comandos de GitHub para ingresar nuestros archivos a la página.
+Una vez creado el repositorio para nuestros archivos, nos dará un url para configurar desde la línea de comandos de GitHub para ingresar nuestros archivos a la página.<br><br>
 2.	Crear una carpeta para la solución de cada ejercicio antes mencionado.
 
 Como vemos en la gráfica nos creamos dos carpetas en GitHub para cada proyecto.
