@@ -1,5 +1,6 @@
 # Practica03-Javascript
 
+ 
  	FORMATO DE INFORME DE PRÁCTICA DE LABORATORIO / TALLERES / CENTROS DE SIMULACIÓN – PARA ESTUDIANTES
 
 CARRERA: INGENIERÍA DE SISTEMAS	ASIGNATURA: HYPERMEDIAL
@@ -26,6 +27,21 @@ Como vemos constamos de una carpeta Galería para la galería de fotos, y un log
 
 
 3.	Realizar un commit y push por cada requerimiento de los puntos antes descritos. 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
 
 
 
@@ -379,19 +395,21 @@ Como vemos esta agregada las 10 imágenes en el github.
  
 
 RESULTADO(S) OBTENIDO(S):
-Al finalizar esta practica tuvimos un resultado positivo, ya que al programar cada una de las paginas que tiene nuestro sitio web, corrió de manera perfecta y con todos los métodos o aplicaciones en cada una de ellas.
-Página principal:
+
+•	Tener el conocimiento suficiente para que el estudiante pueda entender y organizar de una mejor manera los sitios de web y de negocios en Internet 
 
 
 
 CONCLUSIONES:
-•	Cuando realizamos una pagina web, debemos tener o formular un diseño antes de comenzar a realizarla, para que se haga mas fácil, pero también teniendo un orden de pagina a pagina si es el caso de realizar con enlaces que interactúe entre ellas, así como también la correcta utilización de los métodos, códigos, etc.
+
+•	Los estudiantes podrán organizar sitios web basados en el lenguaje de etiquetado HTML, CSS y JavaScript 
+.
 RECOMENDACIONES:
 •	Crear un diseño antes de realizar.
 •	Utilizar bien los códigos y formulación html.
 •	Realizar con tiempo para una perfecta estructuración y visualización de este. 
 •	Para probar la solución de la práctica en al menos tres navegadores web; Google Chrome, Firefox y Safari 
-
+•	Utilizar bien los comandos javaScript
 
 Nombre de estudiante: Alex Cristopher Cuji Torres
 
