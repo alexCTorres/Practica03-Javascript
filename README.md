@@ -121,10 +121,6 @@ Para ello primero hacemos como en el nombre especificamos los caracteres que que
 
 ![image](https://user-images.githubusercontent.com/49664311/69190535-98300700-0aee-11ea-8578-14236a7e1a4a.png)
 
-g)	Se debe validar que la contraseña ingresada tenga mínimo 8 caracteres, además, debe incluir al menos: una letra mayúscula, una letra minúscula y un carácter especial (@, _, $) 
-
-![image](https://user-images.githubusercontent.com/49664311/69190535-98300700-0aee-11ea-8578-14236a7e1a4a.png)
-
 
 Para ello como en todos los otros campos primero validamos los caracteres que queremos que se ingresen aquí y luego especificamos lo mínimo de caracteres que se ingresen.<br><br>
 
