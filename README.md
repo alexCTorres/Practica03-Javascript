@@ -15,7 +15,7 @@ CARRERA: INGENIERÍA DE SISTEMAS	<br>ASIGNATURA: HYPERMEDIAL
 ACTIVIDADES DESARROLLADAS 
 <br>
 <br>
-1.Crear un repositorio en GitHub con el nombre “Practica03-Javascript”
+<i> 1.Crear un repositorio en GitHub con el nombre “Practica03-Javascript” </i>
 
 Primero debemos crear una cuenta en GitHub, y procedemos a crear un repositorio para guardar los distintos archivos de la práctica.
    
@@ -24,7 +24,7 @@ Primero debemos crear una cuenta en GitHub, y procedemos a crear un repositorio 
 
 
 Una vez creado el repositorio para nuestros archivos, nos dará un url para configurar desde la línea de comandos de GitHub para ingresar nuestros archivos a la página.<br><br>
-2.	Crear una carpeta para la solución de cada ejercicio antes mencionado.<br>
+<i> 2.	Crear una carpeta para la solución de cada ejercicio antes mencionado.</i> <br>
 
 Como vemos en la gráfica nos creamos dos carpetas en GitHub para cada proyecto.<br>
 
@@ -33,12 +33,12 @@ Como vemos en la gráfica nos creamos dos carpetas en GitHub para cada proyecto.
 Como vemos constamos de una carpeta Galería para la galería de fotos, y un login para validaciones de autenticación. <br>
 <br>
 
-3.	Realizar un commit y push por cada requerimiento de los puntos antes descritos. <br>
+<i>3.	Realizar un commit y push por cada requerimiento de los puntos antes descritos. </i><br>
 
 ![image](https://user-images.githubusercontent.com/49664311/69189388-3f5f6f00-0aec-11ea-8452-f288e0e1e266.png)
 
 
-4.	Luego, se debe crear el archivo README del repositorio de GitHub.  <br>
+<i>4.	Luego, se debe crear el archivo README del repositorio de GitHub. </i> <br>
 
 ![image](https://user-images.githubusercontent.com/49664311/69189448-61f18800-0aec-11ea-96df-8ca0e29093c0.png)
 
