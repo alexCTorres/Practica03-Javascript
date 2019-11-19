@@ -1,0 +1,42 @@
+#imagen {
+    width: 80%;
+    height: 500px;
+    border-radius: 10px;
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+body {
+    background-color: rgb(28, 5, 32);
+}
+
+input {
+    border-radius: 10px; 
+    background: rgb(151, 147, 145);
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+input#anterior{
+    background: rgb(0, 0, 0);
+    width: 120px;
+    height: 30px;
+    margin: 2%,0,0,5%;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+  
+}
+input#siguiente{
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 120px;
+    height: 30px;
+   
+    text-align: center;
+    font-size: larger;
+}
+
+
+
