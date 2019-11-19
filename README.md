@@ -3,18 +3,23 @@
  
  	FORMATO DE INFORME DE PRÁCTICA DE LABORATORIO / TALLERES / CENTROS DE SIMULACIÓN – PARA ESTUDIANTES
 
-CARRERA: INGENIERÍA DE SISTEMAS	ASIGNATURA: HYPERMEDIAL
-NRO. PRÁCTICA:	3	TÍTULO PRÁCTICA: Resolución de problemas sobre JavaScript
-OBJETIVO ALCANZADO:
+CARRERA: INGENIERÍA DE SISTEMAS	<br>ASIGNATURA: HYPERMEDIAL
+<br>NRO. PRÁCTICA:	3	<br>TÍTULO PRÁCTICA: Resolución de problemas sobre JavaScript
+<br>OBJETIVO ALCANZADO:
 
-•	Entender y organizar de una mejor manera los sitios de web en Internet 
-•	Diseñar adecuadamente elementos gráficos en sitios web en Internet. 
-•	Crear sitios web aplicando estándares actuales. 
+•	Entender y organizar de una mejor manera los sitios de web en Internet <br>
+•	Diseñar adecuadamente elementos gráficos en sitios web en Internet.<br> 
+•	Crear sitios web aplicando estándares actuales. <br>
 
+<br>
 ACTIVIDADES DESARROLLADAS
-1.	Crear un repositorio en GitHub con el nombre “Practica03-Javascript”
+1.Crear un repositorio en GitHub con el nombre “Practica03-Javascript”
+
 Primero debemos crear una cuenta en GitHub, y procedemos a crear un repositorio para guardar los distintos archivos de la práctica.
    
+   ![image](https://user-images.githubusercontent.com/49664311/69188653-f4912780-0aea-11ea-851a-b1666eef78b8.png)
+   ![image](https://user-images.githubusercontent.com/49664311/69188840-46d24880-0aeb-11ea-8556-4440bf5ab382.png)
+
 
 Una vez creado el repositorio para nuestros archivos, nos dará un url para configurar desde la línea de comandos de GitHub para ingresar nuestros archivos a la página.
 2.	Crear una carpeta para la solución de cada ejercicio antes mencionado.
