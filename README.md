@@ -127,7 +127,7 @@ Para ello como en todos los otros campos primero validamos los caracteres que qu
 6. GALERIA DE FOTOS.<br>
 
 
-<i> a)	Diseñar una interfaz en html que tenga tres botones que diga “Anterior”, “Iniciar”, “Siguiente”, y una imagen. Luego, desde javascript se debe controlar para al hacer clic sobre uno de los botones realice una acción relacionada a una galería de imágenes (ver ejemplo, https://gihp4c.blog.ups.edu.ec/) </i.\>
+<i> a)	Diseñar una interfaz en html que tenga tres botones que diga “Anterior”, “Iniciar”, “Siguiente”, y una imagen. Luego, desde javascript se debe controlar para al hacer clic sobre uno de los botones realice una acción relacionada a una galería de imágenes (ver ejemplo, https://gihp4c.blog.ups.edu.ec/) </i>
 
 ![image](https://user-images.githubusercontent.com/49664311/69190640-d4636780-0aee-11ea-8176-711a0ad5d254.png)
 
